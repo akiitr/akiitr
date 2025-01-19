@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Hardware+Engineer+who+likes+to+code;Feel+free+to+explore+my+resume)](https://git.io/typing-svg)
 <!--
 **akiitr/akiitr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
